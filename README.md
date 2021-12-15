@@ -4,7 +4,7 @@
 - 👀 I’m interested in Scripting, Blockchain and Smart-contracts development
 - 💼 I’m currently certified ISO 27001 Lead Implementer, Comptia Security+, Okta Admin and Jamf Pro Consultant
 - 📍 I collaborate with Tech companies who needs to scale IT operations and strengthen their internal Security
-- 📫 Connect with me: https://www.linkedin.com/in/thierrydang/
+- 📫 Let's connect: https://www.linkedin.com/in/thierrydang/
 
 <!---
 DlyanFR/DlyanFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
