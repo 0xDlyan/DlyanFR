@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Thierry D.
-- 👀 I’m interested in IT & Cyber-security
-- 🌱 I’m currently learning ISO 27001, Comptia Security+, Okta, Jamf and Ethical Hacking
-- 💞️ I’m looking to collaborate with Tech companies who wants to scale IT operations and strengthen their internal Security
+### Hello! 👋
+
+- 😊 My name is Thierry, I'm an Senior IT & Cybersecurity engineer.
+- 👀 I’m interested in Scripting, Blockchain and Smart-contracts development
+- 💼 I’m currently certified ISO 27001 Lead Implementer, Comptia Security+, Okta Admin and Jamf Pro Consultant
+- 📍 I collaborate with Tech companies who needs to scale IT operations and strengthen their internal Security
 - 📫 How to reach me: https://www.linkedin.com/in/thierrydang/
 
 <!---
