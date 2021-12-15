@@ -1,9 +1,9 @@
-### Hello! Nice to meet you 👋
+### Hello, Nice to meet you! 👋
 
 - 😊 My name is Thierry, I'm an Senior IT & Cybersecurity engineer
 - 👀 I’m interested in Scripting, Encryption, Blockchain and Smart-contracts development
-- 💼 I’m currently certified ISO 27001 Lead Implementer, Comptia Security+, Okta Admin and Jamf Pro Consultant
-- 📍 I collaborate with Tech companies who needs to scale IT operations and strengthen their internal Security
+- 💼 I’m currently certified ISO 27001 Lead Implementer, Comptia Security+, Okta Admin and Jamf Pro
+- 📍 I collaborate with Tech companies who need to scale IT operations and strengthen their internal Security
 - 📫 Let's connect: https://www.linkedin.com/in/thierrydang/
 
 <!---
