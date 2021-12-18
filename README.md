@@ -3,6 +3,7 @@
 - 😊 My name is Thierry, I'm an Senior IT & Cybersecurity engineer
 - 👀 I’m interested in Scripting, Encryption, Blockchain and Smart-contracts development
 - 💼 I’m currently certified ISO 27001 Lead Implementer, Comptia Security+, Okta Admin and Jamf Pro
+- 🌱 I'm learning Bash, Python, Swift and Solidity
 - 📍 I collaborate with Tech companies who need to scale IT operations and strengthen their internal Security
 - 📫 Let's connect: https://www.linkedin.com/in/thierrydang/
 
