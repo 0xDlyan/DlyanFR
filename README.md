@@ -1,4 +1,4 @@
-### Hello, Nice to meet you! 👋
+### Hello world! 👋
 
 - 😊 My name is Thierry, I'm an Senior IT & Cybersecurity engineer
 - 👀 I’m interested in Scripting, Encryption, Blockchain and Smart-contracts development
